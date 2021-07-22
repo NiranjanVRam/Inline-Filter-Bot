@@ -1,6 +1,5 @@
-# Copyright (C) @CodeXBotz - All Rights Reserved
+# Copyright (C) @fileshomeofficial - All Rights Reserved
 # Licensed under GNU General Public License as published by the Free Software Foundation
-# Written by Shahsad Kolathur <shahsadkpklr@gmail.com>, June 2021
 
 import asyncio
 from InlineBot import (
