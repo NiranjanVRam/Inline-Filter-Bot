@@ -1,27 +1,5 @@
 #                    Inline-Filter-Bot
 
-<p align="center">
-  <a href="https://www.python.org">
-    <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
-  </a>
-  <a href="https://t.me/CodeXBotz">
-    <img src="https://github.com/CodeXBotz/PyrogramGenStr/blob/main/resources/madebycodex-badge.svg" width="250">
-  </a><br>
-  <a href="https://t.me/CodeXBotz">
-    &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20Botz-Channel-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
-  </a>
-  <a href="https://t.me/codexbotzsupport">
-    &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20Botz-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
-  </a>
-  <br>
-  <a href="https://github.com/CodeXBotz/Inline-Filter-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/CodeXBotz/Inline-Filter-Bot?style=social">
-  </a>
-  <a href="https://github.com/CodeXBotz/Inline-Filter-Bot/fork">
-    <img src="https://img.shields.io/github/forks/CodeXBotz/Inline-Filter-Bot?label=Fork&style=social">
-  </a>  
-</p>
-
 A Telegram Bot for filter in Inline
 
 ### Features
@@ -34,7 +12,7 @@ A Telegram Bot for filter in Inline
 - Custom Start Message, filter adding-deleting command
 
 ## DEMO BOT
-<a href="https://t.me/InlineSaverXbot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
+<a href="https://t.me/fhinlinebot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
 
 ### Installation
 #### Deploy on Heroku
@@ -42,7 +20,7 @@ A Telegram Bot for filter in Inline
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/CodeXBotz/Inline-Filter-Bot
+git clone https://github.com/NiranjanVRam/Inline-Filter-Bot
 cd Inline-Filter-Bot
 pip3 install -r requirements.txt
 python3 InlineBot
@@ -85,7 +63,7 @@ python3 InlineBot
 * `{username}` Username of the User
 
 ## Support   
-Join Our [Telegram Group](https://www.telegram.dog/codexbotzsupport) For Support/Assistance And Our [Channel](https://www.telegram.dog/codexbotz) For Updates.   
+Join Our [Telegram Group](https://t.me/fhsupportgrp) For Support/Assistance And Our [Channel](https://t.me/fileshomeofficial) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 
@@ -97,13 +75,6 @@ Report Bugs, Give Feature Requests There..
 
 ### Licence
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
-
-[INLINE-FILTER-BOT](https://github.com/CodeXBotz/Inline-Filter-Bot/) is Free Software: You can use, study share and improve it at your
-will. Specifically you can redistribute and/or modify it under the terms of the
-[GNU General Public License](https://www.gnu.org/licenses/gpl.html) as
-published by the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version. 
-
 ##
 
    **Star this Repo if you Liked it ⭐⭐⭐**
