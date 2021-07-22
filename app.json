@@ -8,8 +8,8 @@
         "bot",
         "inline"
     ],
-    "repository": "https://github.com/CodeXBotz/Inline-Filter-Bot",
-    "logo": "https://telegra.ph/file/14d3013fda21281c54b61.jpg",
+    "repository": "https://github.com/NiranjanVRam/Inline-Filter-Bot",
+    "logo": "https://telegra.ph/file/906c0e832c700985bbfcf.jpg",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "Your Bot token, Get it from @Botfather",
