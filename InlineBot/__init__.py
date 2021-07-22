@@ -1,6 +1,5 @@
-# Copyright (C) @CodeXBotz - All Rights Reserved
+# Copyright (C) @fileshomeofficial - All Rights Reserved
 # Licensed under GNU General Public License as published by the Free Software Foundation
-# Written by Shahsad Kolathur <shahsadkpklr@gmail.com>, June 2021
 
 import os
 
@@ -69,7 +68,7 @@ class CodeXBotz(Client):
         await super().start()
         bot_details = await self.get_me()
         self.LOGGER(__name__).info(f"@{bot_details.username}  started!")
-        self.LOGGER(__name__).info("Created by 𝘾𝙤𝙙𝙚 𝕏 𝘽𝙤𝙩𝙯\nhttps://t.me/CodeXBotz")
+        self.LOGGER(__name__).info("Created by FH GROUP\nhttps://t.me/fileshomeofficial")
         self.bot_details = bot_details
 
     async def stop(self, *args):
