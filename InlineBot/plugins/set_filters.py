@@ -1,6 +1,5 @@
-# Copyright (C) @CodeXBotz - All Rights Reserved
+# Copyright (C) @fileshomeofficial - All Rights Reserved
 # Licensed under GNU General Public License as published by the Free Software Foundation
-# Written by Shahsad Kolathur <shahsadkpklr@gmail.com>, June 2021
 
 import io
 import re
@@ -217,7 +216,7 @@ async def new_filter(client: CodeXBotz, message: Message):
             )
     except Exception as a:
         try:
-            await message.reply(text = f"<b>❌ Error</b>\n\n{str(a)}\n\n<i>Join @CodeXBotzSupport for Support</i>")
+            await message.reply(text = f"<b>❌ Error</b>\n\n{str(a)}\n\n<i>Join @fhsupportgrp for Support</i>")
         except:
             pass
         return
